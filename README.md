@@ -16,6 +16,8 @@ The secondary goal was to adjust the bootstrap wireframe to give more originally
 
 ## What i learned during this project?
 
+How to create the first website page for client.
+
 How to import bootstrap, fontewaseome icons and google fonts to the project.
 
 How to use bootstrap elements.
@@ -35,4 +37,6 @@ How to import jquery.
 * fontawesome
 * google fonts
 
+## Remarks
 
+Project is only the first page and all links doesn't work.
