@@ -2,9 +2,9 @@
 
 First page project for the whiskey shop.
 
-Project is a part of the software development study path in code institute.
+Project is a part of the software development study path in [code institute](https://codeinstitute.net/) and was done by following the tutorials and instruction provided by them.
 
-All project was done by following the tutorials and instruction provided by [code institute](https://codeinstitute.net/).
+The live website can be found [here]([code institute](https://dejvoss.github.io/cs_whiskey_drop/)
 
 ![website mockups](images/mockup.png)
 
@@ -37,6 +37,10 @@ How to import jquery.
 * fontawesome
 * google fonts
 
+
+## Deployment
+
+Live website is deployed on github pages and can be opened by clicking on [this link](https://dejvoss.github.io/cs_whiskey_drop/)
 ## Remarks
 
 Project is only the first page and all links doesn't work.
