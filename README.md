@@ -1,4 +1,4 @@
-# Whiskey Drop - about the project
+# [Whiskey Drop](https://dejvoss.github.io/cs_whiskey_drop/) - about the project
 
 First page project for the whiskey shop.
 
