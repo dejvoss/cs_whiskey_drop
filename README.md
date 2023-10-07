@@ -44,3 +44,7 @@ Live website is deployed on github pages and can be opened by clicking on [this 
 ## Remarks
 
 Project is only the first page and all links doesn't work.
+
+## Acknowledgements
+
+[Code Institute](https://codeinstitute.net/global/)
